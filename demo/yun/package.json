@@ -22,6 +22,7 @@
     ]
   },
   "dependencies": {
+    "@valaxyjs/devtools": "workspace:*",
     "valaxy": "workspace:*",
     "valaxy-addon-algolia": "workspace:*",
     "valaxy-addon-bangumi": "workspace:*",
